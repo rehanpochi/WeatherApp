@@ -6,7 +6,7 @@
 The objective of this app was to learn about asynchronous programming in Dart.Looked at how to carry out time consuming tasks such as getting device location and networking to get data from the internet.
 
 
-## What you will create
+## Description
 
 Weather application inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).
 In this app you will be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
